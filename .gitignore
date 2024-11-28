@@ -1,0 +1,7 @@
+myenv
+cvparser
+# ner_dates.pickle
+# ner.pickle
+# pos_tagger.pickle
+# qa_squad.pickle
+# zer_shot_classifier.pickle

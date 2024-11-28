@@ -1,0 +1,46 @@
+{
+    "Basic Details": {
+        "Job History": [],
+        "Education": [],
+        "Skills": [],
+        "Name": "MOHIT LEHRI",
+        "Contact Info": {
+            "Email": "mohitlehri99@gmail.com",
+            "phone1": "+91 7697448887",
+            "phone2": ""
+        }
+    },
+    "Detailed Segments": {
+        "objective": [
+            "A Frontend Developer with 3 years of experience in creating responsive and user-friendly web interfaces,",
+            "proficient in modern technologies like ReactJS, NextJS, and integrating analytics tools. Proven ability to deliver",
+            "high-quality projects, optimize user experiences, and collaborate effectively within development teams."
+        ],
+        "work_and_employment": [],
+        "education_and_training": [
+            "financial data visualization, enabling users to easily track budgets and",
+            "expenses.",
+            "MERN Stack Developer Ensured Seamless Data Integration: Collaborated with backend teams to",
+            "AWS for Beginners facilitate smooth data integration and real-time updates, enhancing",
+            "platform performance and user experience.",
+            "Edusity.com",
+            "Frontend Developer | Jan 2022 - Nov 2022",
+            "Developed Responsive Interfaces: Contributed to the Edusity e-learning",
+            "platform by creating and maintaining responsive, user-friendly interfaces",
+            "using ReactJS.",
+            "Enhanced User Experience: Focused on designing intuitive UI components",
+            "to improve overall user engagement and functionality of the platform."
+        ],
+        "skills": [],
+        "accomplishments": {},
+        "misc": {},
+        "contact_info": [
+            "MOHIT LEHRI",
+            "+91 7697448887",
+            "mohitlehri99@gmail.com",
+            "Front End Developer",
+            "Portfolio",
+            "Indore, Madhya Pradesh, India"
+        ]
+    }
+}
