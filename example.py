@@ -50,7 +50,7 @@ import json
 parser = parcv.Parser(pickle=True, load_pickled=True)
 
 # Parse the resume
-parsed_data = parser.parse('cvmohit.pdf')
+parsed_data = parser.parse('yourcv.pdf')
 print(parsed_data)
 # # Fetch detailed segments
 segments = parser.get_resume_segments()
